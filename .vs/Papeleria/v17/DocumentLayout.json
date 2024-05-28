@@ -1,0 +1,555 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\WEBAPI\\Controllers\\PedidosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WEBAPI\\Controllers\\PedidosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\WEBAPI\\Controllers\\ArticulosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WEBAPI\\Controllers\\ArticulosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\ArticulosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Papeleria\\Controllers\\ArticulosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Papeleria\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\DTOs\\MapperUsuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\MapperUsuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\DTOs\\DTOAltaUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\DTOAltaUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaAplicacion\\CasosUso\\CUArticulos\\CUListadoArticulosDeLineas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaAplicacion\\CasosUso\\CUArticulos\\CUListadoArticulosDeLineas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaAplicacion\\CasosUso\\CUArticulos\\CUAltaArticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaAplicacion\\CasosUso\\CUArticulos\\CUAltaArticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Migrations\\20240430021404_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaDatos\\Migrations\\20240430021404_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\LibreriaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaDatos\\Repositorios\\LibreriaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioArticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaNegocio\\InterfacesRepositorios\\IRepositorioArticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioPedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaNegocio\\InterfacesRepositorios\\IRepositorioPedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioLineas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaNegocio\\InterfacesRepositorios\\IRepositorioLineas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioDirecciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaNegocio\\InterfacesRepositorios\\IRepositorioDirecciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaNegocio\\InterfacesRepositorios\\IRepositorioClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesDominio\\IValidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaNegocio\\InterfacesDominio\\IValidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\ExcepcionesPropias\\DatosInvalidosException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaNegocio\\ExcepcionesPropias\\DatosInvalidosException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\Dominio\\Articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaNegocio\\Dominio\\Articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\Dominio\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaNegocio\\Dominio\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\Dominio\\Direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaNegocio\\Dominio\\Direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\VOs\\EmailUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaNegocio\\VOs\\EmailUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioClientesEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaDatos\\Repositorios\\RepositorioClientesEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioDireccionesEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaDatos\\Repositorios\\RepositorioDireccionesEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioUsuariosEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaDatos\\Repositorios\\RepositorioUsuariosEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioPedidosEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaDatos\\Repositorios\\RepositorioPedidosEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaAplicacion\\InterfacesCU\\ICUAlta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaAplicacion\\InterfacesCU\\ICUAlta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioArticulosEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaDatos\\Repositorios\\RepositorioArticulosEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\UsuariosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Papeleria\\Controllers\\UsuariosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Papeleria\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Papeleria\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\ClientesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Papeleria\\Controllers\\ClientesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioLineasEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaDatos\\Repositorios\\RepositorioLineasEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\WEBAPI\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "WEBAPI\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\WEBAPI\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "WEBAPI\\Controllers\\PedidosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:40:33.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\WEBAPI\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "WEBAPI\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\WEBAPI\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "WEBAPI\\Controllers\\ArticulosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:37:09.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapperUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\DTOs\\MapperUsuarios.cs",
+              "RelativeDocumentMoniker": "DTOs\\MapperUsuarios.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\DTOs\\MapperUsuarios.cs",
+              "RelativeToolTip": "DTOs\\MapperUsuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:42:20.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DTOAltaUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\DTOs\\DTOAltaUsuario.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOAltaUsuario.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\DTOs\\DTOAltaUsuario.cs",
+              "RelativeToolTip": "DTOs\\DTOAltaUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:42:18.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CUListadoArticulosDeLineas.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaAplicacion\\CasosUso\\CUArticulos\\CUListadoArticulosDeLineas.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CasosUso\\CUArticulos\\CUListadoArticulosDeLineas.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaAplicacion\\CasosUso\\CUArticulos\\CUListadoArticulosDeLineas.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CasosUso\\CUArticulos\\CUListadoArticulosDeLineas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:37:21.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Program.cs",
+              "RelativeDocumentMoniker": "Papeleria\\Program.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Program.cs",
+              "RelativeToolTip": "Papeleria\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:48:36.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Papeleria\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Papeleria\\Controllers\\ArticulosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:01:16.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240430021404_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Migrations\\20240430021404_Init.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Migrations\\20240430021404_Init.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Migrations\\20240430021404_Init.cs",
+              "RelativeToolTip": "LogicaDatos\\Migrations\\20240430021404_Init.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:36:17.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepositorioPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioPedidos.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioPedidos.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioPedidos.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioPedidos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:07:46.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepositorioArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioArticulos.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioArticulos.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioArticulos.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioArticulos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:07:39.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:06:10.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CUAltaArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaAplicacion\\CasosUso\\CUArticulos\\CUAltaArticulo.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\CasosUso\\CUArticulos\\CUAltaArticulo.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaAplicacion\\CasosUso\\CUArticulos\\CUAltaArticulo.cs",
+              "RelativeToolTip": "LogicaAplicacion\\CasosUso\\CUArticulos\\CUAltaArticulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:39:50.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepositorioLineas.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioLineas.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioLineas.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioLineas.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioLineas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:07:44.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\LibreriaContext.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\LibreriaContext.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\LibreriaContext.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\LibreriaContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:44:56.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepositorioDirecciones.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioDirecciones.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioDirecciones.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioDirecciones.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioDirecciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:07:42.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepositorioClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioClientes.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioClientes.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioClientes.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioClientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:05:45.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatosInvalidosException.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\ExcepcionesPropias\\DatosInvalidosException.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ExcepcionesPropias\\DatosInvalidosException.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\ExcepcionesPropias\\DatosInvalidosException.cs",
+              "RelativeToolTip": "LogicaNegocio\\ExcepcionesPropias\\DatosInvalidosException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:01:15.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Direccion.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\Dominio\\Direccion.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Dominio\\Direccion.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\Dominio\\Direccion.cs",
+              "RelativeToolTip": "LogicaNegocio\\Dominio\\Direccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:25:20.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\Dominio\\Cliente.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Dominio\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\Dominio\\Cliente.cs",
+              "RelativeToolTip": "LogicaNegocio\\Dominio\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:22:42.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IValidable.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesDominio\\IValidable.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesDominio\\IValidable.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\InterfacesDominio\\IValidable.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesDominio\\IValidable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:18:31.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmailUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\VOs\\EmailUsuario.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\VOs\\EmailUsuario.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\VOs\\EmailUsuario.cs",
+              "RelativeToolTip": "LogicaNegocio\\VOs\\EmailUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:18:02.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RepositorioClientesEF.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioClientesEF.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioClientesEF.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioClientesEF.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioClientesEF.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:36:38.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaNegocio\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "LogicaNegocio\\Dominio\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:47:13.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RepositorioUsuariosEF.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioUsuariosEF.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioUsuariosEF.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioUsuariosEF.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioUsuariosEF.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:15:16.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RepositorioDireccionesEF.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioDireccionesEF.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioDireccionesEF.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioDireccionesEF.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioDireccionesEF.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:36:42.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Papeleria\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Papeleria\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:04:39.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Papeleria\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Papeleria\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:04:51.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RepositorioPedidosEF.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioPedidosEF.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioPedidosEF.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioPedidosEF.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioPedidosEF.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:45:37.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICUAlta.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaAplicacion\\InterfacesCU\\ICUAlta.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfacesCU\\ICUAlta.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaAplicacion\\InterfacesCU\\ICUAlta.cs",
+              "RelativeToolTip": "LogicaAplicacion\\InterfacesCU\\ICUAlta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:39:19.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Papeleria\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Papeleria\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:04:29.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RepositorioArticulosEF.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioArticulosEF.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioArticulosEF.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioArticulosEF.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioArticulosEF.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:36:33.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Papeleria\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\Papeleria\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Papeleria\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:04:44.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RepositorioLineasEF.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioLineasEF.cs",
+              "RelativeDocumentMoniker": "LogicaDatos\\Repositorios\\RepositorioLineasEF.cs",
+              "ToolTip": "C:\\Users\\Clara\\Desktop\\ATI\\Tercer Semestre\\Programacion 3\\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\\Papeleria\\LogicaDatos\\Repositorios\\RepositorioLineasEF.cs",
+              "RelativeToolTip": "LogicaDatos\\Repositorios\\RepositorioLineasEF.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:54:05.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

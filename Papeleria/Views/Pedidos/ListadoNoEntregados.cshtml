@@ -1,0 +1,49 @@
+﻿@model IEnumerable<LogicaNegocio.Dominio.Pedido>
+
+@{
+    ViewData["Title"] = "ListadoNoEntregados";
+}
+
+<h1>Listado Pedidos no entregados</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Fecha de Entrega
+            </th>
+            <th>
+                Cliente
+            </th>
+            <th>
+                Total del pedido
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (ViewBag.Clientes != null && ViewBag.TotalPedidos != null)
+        {
+            @if (Model != null)
+            {
+                @for (int i = 0; i < Model.Count(); i++)
+                {
+                    <tr>
+                        <td>
+                            @(Model.ElementAt(i).FechaEntrega)
+                        </td>
+                        <td>
+                            @ViewBag.Clientes[i].RazonSocial
+                        </td>
+                        <td>
+                            $@ViewBag.TotalPedidos[i]
+                        </td>
+                        <td>
+                            <a asp-action="Delete" asp-route-id="@(Model.ElementAt(i).Id)">Anular</a>
+                        </td>
+                    </tr>
+                }
+            }
+        }
+    </tbody>
+</table>

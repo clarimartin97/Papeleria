@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Pedidos</h1>
+<div class="d-flex gap-3">
+    <p>
+        <a asp-action="Listado">Listado pedidos</a>
+    </p>
+    <p>
+        <a asp-action="Create">Crear nuevo pedido.</a>
+    </p>   
+</div>
+
+<hr />
+<div class="row">
+    <div class="col-md-4 row gap-3">
+        <h3>Filtros</h3>
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <div class="text-danger">
+                @ViewBag.ErrorMessage
+            </div>
+        }
+        <form method="post" class="d-flex flex-column gap-3">
+            <div class="form-group">
+                <label class="control-label">Ingrese un monto, los clientes que hayan realizado pedidos cuyo total supere el monto dado.</label>
+                <input type="text" id="monto" name="monto" class="form-control" />
+            </div>
+            <div class="form-group">
+                <button type="submit" name="BuscarMonto" value="BuscarMonto" class="btn btn-primary">Buscar por Monto</button>
+            </div>
+            @if (ViewBag.ErrorMessageMonto != null)
+            {
+                <div class="text-danger">
+                    @ViewBag.ErrorMessageMonto
+                </div>
+            }
+        </form>
+        <form method="post" class="d-flex flex-column gap-3">
+            <div class="form-group">
+                <label class="control-label">Ingrese fecha de emision del pedido.</label>
+                <input type="date" id="date" name="date" class="form-control" />
+            </div>
+            <div class="form-group">
+                <button type="submit" name="BuscarFecha" value="BuscarFecha" class="btn btn-primary">Buscar por Fecha</button>
+            </div>
+            @if (ViewBag.ErrorMessageFecha != null)
+            {
+                <div class="text-danger">
+                    @ViewBag.ErrorMessageFecha
+                </div>
+            }
+        </form>
+        <form method="post"  class="d-flex flex-column gap-3">
+            <div class="form-group">
+                <button type="submit" name="ListadoPedidosAnulados" value="ListadoPedidosAnulados" class="btn btn-primary">Listar Pedidos Anulados Descendentemente</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

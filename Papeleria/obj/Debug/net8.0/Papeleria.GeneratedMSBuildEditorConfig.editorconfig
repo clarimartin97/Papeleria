@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Papeleria
+build_property.RootNamespace = Papeleria
+build_property.ProjectDir = c:\Users\Clara\Desktop\ATI\Tercer Semestre\Programacion 3\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\Papeleria\Papeleria\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Clara\Desktop\ATI\Tercer Semestre\Programacion 3\Obligatorio1-P3-ClaraMartinYNicolasAmoroso\Papeleria\Papeleria
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Articulos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Articulos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Pedidos/Clientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xDbGllbnRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Pedidos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Pedidos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Pedidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Pedidos/Listado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xMaXN0YWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Pedidos/ListadoNoEntregados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xMaXN0YWRvTm9FbnRyZWdhZG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Clara/Desktop/ATI/Tercer Semestre/Programacion 3/Obligatorio1-P3-ClaraMartinYNicolasAmoroso/Papeleria/Papeleria/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6xcb6b313t

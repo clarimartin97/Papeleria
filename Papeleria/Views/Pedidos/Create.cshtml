@@ -1,0 +1,103 @@
+﻿@model LogicaNegocio.Dominio.Pedido
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Crear pedido</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <label for="Tipo">Seleccione tipo de pedido</label>
+            <div class="d-flex gap-2">
+                <div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input class="form-check-input" id="Tipo" value="false" name="Tipo" type="radio" checked="@ViewBag.TipoComun" disabled="@ViewBag.Disabled" /> Común
+                    </label>
+                </div>
+                <div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input class="form-check-input" id="Tipo" value="true" name="Tipo" type="radio" checked="@ViewBag.TipoExpress" disabled="@ViewBag.Disabled" /> Express
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="ClienteId" class="control-label">Seleccione un cliente</label>
+                <select id="ClienteId" name="ClienteId" class="form-control" disabled="@ViewBag.Disabled">
+                    @if (ViewBag.Clientes != null)
+                    {
+                        foreach (var cliente in ViewBag.Clientes)
+                        {
+                            if (ViewBag.ClienteId == null || ViewBag.ClienteId == 0)
+                            {
+                                <option value="@cliente.Id">@cliente.Rut - @cliente.RazonSocial</option>
+                            }
+                            else if (ViewBag.ClienteId == cliente.Id)
+                            {
+                                <option value="@cliente.Id">@cliente.Rut - @cliente.RazonSocial</option>
+                            }
+                        }
+                    }
+                </select>
+                <span class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="ArticuloId" class="control-label">Seleccione un articulo</label>
+                <select id="ArticuloId" name="ArticuloId" class="form-control">
+                    @if (ViewBag.Articulos != null)
+                    {
+                        foreach (var articulo in ViewBag.Articulos)
+                        {
+                            <option value="@articulo.Id">@articulo.Nombre - $@articulo.PrecioVenta - Stock: @articulo.Stock</option>
+                        }
+                    }
+                </select>
+                <span class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Cantidad" class="control-label">Ingrese la cantidad requerida del articulo</label>
+                <input id="Cantidad" name="Cantidad" class="form-control" type="number" min="1" />
+                <span for="Cantidad" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label for="FechaEntrega" class="control-label">Fecha de entrega</label>
+                <input id="FechaEntrega" name="FechaEntrega" class="form-control" type="date" min="@ViewBag.MinDate" value="@ViewBag.MinDate" disabled="@ViewBag.Disabled"/>
+                <span for="FechaEntrega" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" name="AgregarArticulo" value="Agregar articulo" class="btn btn-primary mt-3">Agregar articulo</button>
+            </div>
+            @if (ViewBag.ArticulosDeLineas != null && ViewBag.Lineas != null)
+            {
+                <div>
+                    <h3>Articulos agregados</h3>
+                    @for(int i = 0; i < ViewBag.ArticulosDeLineas.Count; i++)
+                    {
+                        <p>@ViewBag.ArticulosDeLineas[i].Nombre - $@ViewBag.ArticulosDeLineas[i].PrecioVenta - Cantidad: @ViewBag.Lineas[i].Cantidad</p>
+                        <hr>
+                    }
+                    <div class="d-flex flex-column">
+                        <p>Recargo: @ViewBag.Recargo%</p>
+                        <p>Iva: @ViewBag.Iva%</p>
+                        <p>Total: $@ViewBag.Total</p>
+                    </div>
+                    <input name="PedidoId" value="@ViewBag.PedidoId" class="d-none" />
+                    <button type="submit" name="FinalizarPedido" value="Finalizar Pedido" class="btn btn-primary mt-3">Finalizar Pedido</button>
+                </div>
+            }
+        </form>
+    </div>
+    @if (ViewBag.ErrorMessage != null)
+    {
+        <p>@ViewBag.ErrorMessage</p>
+    }
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
